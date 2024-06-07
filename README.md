@@ -1,5 +1,5 @@
 # px-em-rem
-
+/**** Check comments in the code to see the calculation of size ****/
 
 1.Pixel (px)
 •	Definition: “A pixel (px) is an absolute unit that represents a single dot on a screen. It is fixed and does not change with different screen sizes or user settings.”
